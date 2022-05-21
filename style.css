@@ -1,0 +1,31 @@
+/* Below is our styles :) XD */
+
+.todo-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+    background-color: #b6e0f7;
+    width: 340px;
+    height: 40px;
+}
+
+.container-class {
+    /* Sets the display type to flexible */
+    display: flex;
+    /* Sets the direction of our items in the flexible box */
+    flex-direction: column;
+    /* Sets the space between all the items on the main axis */
+    justify-content: space-around;
+    /* Sets spacing of items on the cross axis */
+    align-items: center;
+
+    background-color: #caffdf;
+    width: 400px;
+    height: 500px;
+}
+
+.todo-text {
+    
+}
